@@ -1,2 +1,2 @@
-# AI-Enabled_Parking_System
+# AI-Enabled
 AI-Enabled Parking System
